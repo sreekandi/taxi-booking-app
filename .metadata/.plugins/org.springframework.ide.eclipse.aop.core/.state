@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="admin-signin-service"/>
+<aop-project name="usercoordinates"/>
+<aop-project name="driver-signupsignin-service"/>
+<aop-project name="usersigninsignup"/>
+</aop-reference-model>
